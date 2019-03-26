@@ -1,0 +1,104 @@
+@font-face {
+    font-family: DroidKufiBold;
+    src: url(https://raw.githack.com/AppPluss/app1/master/style/fonts/Cairo-Bold.ttf);
+}
+@font-face {
+    font-family: DroidKufiRegular;
+    src: url(https://raw.githack.com/AppPluss/app1/master/style/fonts/Cairo-Bold.ttf);
+}
+
+body{
+    font-family:DroidKufiRegular;
+    background-image: url(https://raw.githack.com/AppPluss/app1/master/style/img/bg5.png);
+
+}   
+ 
+.logo{
+text-align:center;
+width: 100%;
+height: auto;
+    
+}
+
+.social a{
+color:#9EB3C2;
+font-size:42px;
+padding:25px;
+    
+}
+.linez{
+    display:none;
+
+}
+.follow{
+    font-family:DroidKufiRegular;
+    font-size:17px;
+    color: white;
+    
+}
+
+.formz{
+text-align:center;
+width: 100%;
+height: auto;
+font-family:DroidKufiRegular;
+    
+}
+
+.btn{
+background: #000000;
+border-radius:20px;width:90%;
+border: 2px solid #ffffff;color: white;
+font-size:22px;
+padding:10px;
+font-family: DroidKufiRegular;
+    
+}
+
+.social{
+border-top: 2px solid #ffffff;
+    
+}
+
+.iii{
+width: 100%;
+height: auto;
+padding:10px;
+margin-bottom:10px;
+    
+}
+
+.iin{
+background-color: #000000;
+font-size:16px;
+padding:24px;
+font-family: DroidKufiRegular;
+border-radius:20px 2px 2px 20px;
+border: 2px solid #ffffff;
+color: #FFFFFF;width:60%;
+display:inline-block;
+    
+}
+
+.ino{
+    background: #000000;
+    font-size:16px;
+    padding:24px;
+    font-family: DroidKufiRegular;
+    border-radius:2px 20px 20px 2px;
+    border: 2px solid #fff;color: white;width:30%;display:inline-block;
+    margin-left:3%;
+    
+}
+
+
+.logo img{
+    text-align:center;
+    height:175px;
+    width:175px;
+    margin-left:auto;
+    margin-right:auto;
+    
+    
+}
+
