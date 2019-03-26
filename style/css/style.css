@@ -1,15 +1,15 @@
 @font-face {
     font-family: DroidKufiBold;
-    src: url(https://iwen.me/thems/style/fonts/cairo-bold.ttf);
+    src: url(https://raw.githack.com/AppPluss/app1/master/style/fonts/Cairo-Bold.ttf);
 }
 @font-face {
     font-family: DroidKufiRegular;
-    src: url(https://iwen.me/thems/style/fonts/cairo-bold.ttf);
+    src: url(https://raw.githack.com/AppPluss/app1/master/style/fonts/Cairo-Bold.ttf);
 }
 
 body{
     font-family:DroidKufiRegular;
-    background-image: url(../img/bg3.png);
+    background-image: url(https://raw.githack.com/AppPluss/app1/master/style/img/bg3.png);
 
 }   
  
